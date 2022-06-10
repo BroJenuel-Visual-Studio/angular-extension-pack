@@ -2,12 +2,12 @@
     "name": "angular-extension-pack-by-bro-jenuel",
     "displayName": "Angular Extension Pack By Bro Jenuel",
     "description": "This is a extension pack for developing Angular Apps using Angular JS.",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "MisterJ",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
+        "url": "https://github.com/BroJenuel/angular-extension-pack"
     },
     "scripts": {
         "package": "vsce package",
