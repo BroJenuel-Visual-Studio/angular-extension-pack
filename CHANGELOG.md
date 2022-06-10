@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.5]
+Separate to individual Repo
+
 ## [1.0.4]
 Removed Deprecated Extensions
   - TSLint
