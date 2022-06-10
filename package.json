@@ -1,0 +1,35 @@
+{
+    "name": "angular-extension-pack-by-bro-jenuel",
+    "displayName": "Angular Extension Pack By Bro Jenuel",
+    "description": "This is a extension pack for developing Angular Apps using Angular JS.",
+    "version": "1.0.4",
+    "publisher": "MisterJ",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BroJenuel/CodeExtensionPack.git"
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "angular.ng-template",
+        "cyrilletuzi.angular-schematics",
+        "dbaeumer.vscode-eslint",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport",
+        "esbenp.prettier-vscode",
+        "msjsdiag.debugger-for-edge",
+        "nrwl.angular-console",
+        "eg2.vscode-npm-script",
+        "ms-vscode.js-debug"
+    ]
+}
